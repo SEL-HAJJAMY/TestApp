@@ -1,13 +1,15 @@
 Safae
-<<<<<<< HEAD
+
 edited by Soumia
 =======
 Sara
 Hafsa
-<<<<<<< HEAD
+
 Abir
 =======
 SOUMIA
 AMINA
->>>>>>> 7e1b726c32416681acd2c013364916515e4d0df5
->>>>>>> 550f7a73eb53ee546e9cb4c3e2512260a9d72132
+
+
+commit with new branch soumia in branch soumia
+
